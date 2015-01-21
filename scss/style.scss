@@ -48,4 +48,30 @@ img {max-width:100;}
 
 body {
     transition: opacity .25s ease;
+    // background-color: green;
 }
+
+// body:hover {
+//     background-color: blue;
+// }
+
+
+.center {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     color: white;
+}
+
+#timeColor {
+    color: white;
+    // outline-color: #000;
+    font-family: "Arial";
+}
+
+// .center:hover {
+    // background-color: blue;
+// }
+
+
